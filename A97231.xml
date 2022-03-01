@@ -1,0 +1,238 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Directions to young clerks in the court of Kings Bench for making the process of the said court retornable, both at days certain and ubicunque; with other directions in order thereunto. By John Warter, Sen. gent. Deceased.</title>
+            <author>Warter, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97231</idno>
+            <idno type="STC">Wing W986</idno>
+            <idno type="STC">ESTC R232338</idno>
+            <idno type="EEBO-CITATION">99897710</idno>
+            <idno type="PROQUEST">99897710</idno>
+            <idno type="VID">137643</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97231)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137643)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2522:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Directions to young clerks in the court of Kings Bench for making the process of the said court retornable, both at days certain and ubicunque; with other directions in order thereunto. By John Warter, Sen. gent. Deceased.</title>
+                  <author>Warter, John.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for and sold by William Warter stationer, at the sign of the Talbot over against the east end of St. Dunstan's Church in Fleetstreet, where you may be furnished with all sorts of blank bonds, blank writs, blank warrants for justices, licenses for alehouses, blank indentures for apprentices, blank indentures to put out parish children by the Justices of the Peace, blank Declarations in Ejectment in the King's Bench or Common Pleas, blank rules in ejectment in the King's Bench, blank bayl bonds for appearance, blank tickets for subpena's for London, Westminster, or the Assizes, or for any other court, blank warrants of attorney to confess judgment, or to acknowledge satisfaction on record...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Law clerks --  England --  Handbooks, manuals, etc. --  Early works to 1800.</term>
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Emma (Leeson) Huber</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:137643:1" rendition="simple:additions"/>
+            <head>Directions to Young Clerks in the Court of Kings Bench, for making the Proceſs of the ſaid Court Retornable, both at Days Certain and <hi>
+                  <g ref="char:V">Ʋ</g>bicunque;</hi> with other Directions in order thereunto.</head>
+            <byline>By JOHN WARTER, SEN. GENT. Deceaſed.</byline>
+            <p>How to know the Beginning and Ending of every Term in the Year, without any other uſe of an Almanack, than to find what day of the Week <hi>Michaelmas</hi> Day happeneth; which being found, that day three Weeks after is the Eſſoyne day of <hi>Michaelmas</hi> Term, and the <hi>Quarto die poſt incluſive</hi> is the firſt day of the Term, which is always the three and twentieth day of <hi>October</hi> if it be not Sunday, but if Sunday, then the four and twentieth day, and endeth the eight and twentieth day of <hi>November</hi> if not Sunday, and if Sunday, then it endeth the nine and twentieth day, and the laſt day of every Term, is the <hi>Quarto die post incluſive</hi> of the Eſſoyne day of the laſt Retorn.</p>
+            <p>
+               <label>Michaelmas Term.</label>THIS Term Contains in it  Five Complete Weeks and two Days, and hath ſix Retorns, which are thus to be Written.<list>
+                  <item>1 A die ſancti <hi>Michaelis</hi> in tres ſeptimanas ubicunque tunc fuerimus in Anglia,</item>
+                  <item>2 A die ſancti <hi>Michaelis</hi> in unum menſem ubicunque, <hi>&amp;c.</hi>
+                  </item>
+                  <item>3 In Craſtino Animarum ubicunque, <hi>&amp;c.</hi>
+                  </item>
+                  <item>4 In Craſtino Sancti Martini ubicunque, <hi>&amp;c.</hi>
+                  </item>
+                  <item>5 In Octabas ſancti Martini ubicunque, <hi>&amp;c.</hi>
+                  </item>
+                  <item>6 A die ſancti Martini in quindecim dies ubicunque, <hi>&amp;c.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>Hillary</hi> Term beginneth the three and twentieth day of <hi>January,</hi> if not Sunday, <hi>&amp;c.</hi> which is always that day eight Weeks on which <hi>Michaelmas</hi> Term ended, and endeth the twelfth day of <hi>February,</hi> if not Sunday, <hi>&amp;c.</hi> being always the ſame day of the Week that <hi>Michaelmas</hi> Term beginneth.</p>
+            <p>
+               <label>Hillary Term.</label>This Term Contains in it three Complete Weeks, and hath four  Retorns, which are thus to be Written.<list>
+                  <item>1 In Octabas ſancti <hi>Hillarii</hi> ubicunque, <hi>&amp;c.</hi>
+                  </item>
+                  <item>2 A die ſancti <hi>Hillarii</hi> in quindecim dies ubicunque, <hi>&amp;c.</hi>
+                  </item>
+                  <item>3 In Craſtino Purificationis Beatae <hi>Mariae</hi> Virginis ubicunque, <hi>&amp;c.</hi>
+                  </item>
+                  <item>4 In Octabas Purificationis Beatae <hi>Mariae</hi> Virginis ubicunque, <hi>&amp;c.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>Eaſter</hi> Term beginneth the Wedneſday Fortnight after <hi>Easter</hi> Day, its Eſſoyne day being Sunday before, but held on Monday, and ends on Monday before Whitſunday.</p>
+            <p>
+               <label>Eaſter Term.</label>This Term Contains in it three Complete Weeks and ſix Days,  and hath five Retorns, which are thus to be Written.<list>
+                  <item>1 A die Paſchae in quindecim dies ubicunque, <hi>&amp;c.</hi>
+                  </item>
+                  <item>2 A die Paſchae in tres ſeptimanas ubicunque, <hi>&amp;c.</hi>
+                  </item>
+                  <item>3 A die Paſchae in unum menſem ubicunque, <hi>&amp;c.</hi>
+                  </item>
+                  <item>4 A die Paſchae in quinque ſeptimanas ubicunque, <hi>&amp;c.</hi>
+                  </item>
+                  <item>5 In Craſtino Aſcenſionis Domini ubicunque, <hi>&amp;c.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>Trinity</hi> Term beginneth the Friday after <hi>Trinity</hi> Sunday, its Eſſoyne day being Monday before, and ends on Wedneſday Fortnight after the Term beginneth.</p>
+            <p>
+               <label>Trinity Term.</label>This Term Contains in it three Weeks wanting one Day, and  hath four Retorns, which are thus to be Written.<list>
+                  <item>1 In Craſtino ſanctae Trinitatis ubicunque, <hi>&amp;c.</hi>
+                  </item>
+                  <item>2 In Octabas ſanctae Trinitatis ubicunque, <hi>&amp;c.</hi>
+                  </item>
+                  <item>3 A die ſanctae Trinitatis in quindecim dies ubicunque, <hi>&amp;c.</hi>
+                  </item>
+                  <item>4 A die ſanctae Trinitatis in tres ſeptimanas ubicunque, <hi>&amp;c.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <note place="margin">Writs <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> All Writs of <hi>Scire facias Quare non,</hi> and <hi>Ad Audiendum Errores,</hi> upon Writs of <hi>Error</hi> out of the <hi>Common Pleas</hi> and out of Inferior Courts, all Writs of <hi>Capias ad ſatisfaciendum, Fieri facias,</hi> and other Judicial Writs after Judgments affirmed, all proceſs to the <hi>Outl<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y, Retornamentum habendum, Capias</hi> in <hi>Withernam,</hi> and all other Writs and Proceſs grounded upon any <hi>Recordari facias Loquelam, Audita Querela, Accedas ad Curiam, Capias ſi Laicus,</hi> or any other Original Writ out of Chancery.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> That there muſt be fifteen days <hi>Excluſive</hi> between the <hi>Teſte</hi> and Retorn of all <hi>ubicunque</hi> Writs, unleſs diſpenced with by Act of Parliament: To which purpoſe there be two Statutes, the one in <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Septimo Caroli Primi Capite Sexto</hi> (by which Statute the two then firſt Retorns of <hi>Michaelmas</hi> Term, <hi>(viz.) Octabas Michaelis</hi> and <hi>Quindena Michaelis</hi> were taken away) by which proviſion is made, That all Writs and Proceſs in perſonal Actions, having day from <hi>Tres Michaelis</hi> till <hi>Crastinum Animarum,</hi> ſhall be good and effectual in Law, notwithſtanding there be not fifteen days between the <hi>Quarto die of Tres Michaelis,</hi> and the day of Eſſoyne of <hi>Craſtinum Animarum.</hi> The other in <hi>Decimo Tertio Caroli Secundi, Capite Secundo, Secunda Seſſione,</hi> by which alſo proviſion is made, that in all Perſonal Actions, and Actions of <hi>Ejectione firme,</hi> brought by Origi<g ref="char:EOLhyphen"/>nal, there ſhall not need to be fifteen days between the <hi>Teſte</hi> and Retorn of any Writ or Writs of <hi>Venire facias, Habeas Corpora, Diſtringas Juratorum, Fieri facias,</hi> or <hi>Capias ad ſatisfaciendum,</hi> and that the want thereof ſhall not be Error. Except the <hi>Capias ad ſatisfaciendum,</hi> whereon an <hi>Exegent</hi> after Judgment is to be Awarded, and a <hi>Capias ad ſatis<g ref="char:EOLhyphen"/>faciendum</hi> againſt the Defendant to make Bayl liable: And thus far touching Writs Retornable <hi>ubicunque.</hi>
+            </p>
+            <div type="part">
+               <head>Of Writs Retornable at Days certain.</head>
+               <p>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note> The <hi>Lattitat, alias Capias, pluries Capias, Bill of Middleſex, Distringas nuper Vice-Comitem, Habeas Corpus ſuper Cepi Corpus, Habeas Corpus ad Faciendum &amp; Recipiendum,</hi> and all  other Proceſs thereupon, both before and after Judgment, muſt be Retornable at Days certain, and may be ſo made upon any day in Term, that is <hi>Dies Juridicus;</hi> but if you make them Retornable upon the Eſſoyne day of any Retorn, the day of the Week muſt be Named in certain, as <hi>Die Lunae in Menſe</hi> Michaelis <hi>die Martis in Craſtino A<g ref="char:EOLhyphen"/>nimarum,</hi> and all other days of the Week, they muſt be ſuch a day <hi>poſt</hi> ſuch a Retorn, as <hi>Die Lunae proximae poſt tres ſeptimanas ſancti</hi> Michaelis, <hi>die Martis proximi poſt Craſtinum ſancti Martini,</hi> &amp;c.</p>
+               <p>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note> There is one day in every <hi>Michaelmas</hi> Term, which cannot properly be ſaid to be <hi>in</hi> or <hi>poſt</hi> any Retorn, which is the eleventh day of <hi>November</hi> Yearly, for <hi>Crastino Ani<g ref="char:EOLhyphen"/>marum</hi> is always the third of <hi>November,</hi> and the next Retorn after being <hi>Craſtino Martini</hi> is the twelfth of <hi>November,</hi> between which two Retorns one day of the Week falls twice, as Example, this preſent Year, 1675. <hi>Crastino Animarum</hi> is on Friday, and the next day is <hi>Sabbati proximi post Craſtinum Animarum,</hi> and the eleventh of <hi>November</hi> is another Saturday on the next Retorn day, and it is to be written, <hi>Sabbati in Festo San-cti Martini,</hi> and ſo Yearly, according to the day of the Week whereon the Feaſt of St. <hi>Martin</hi> hapneth.</p>
+               <p>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note> All <hi>Saints</hi> and all <hi>Souls,</hi> being the firſt and ſecond days of <hi>November</hi> in <hi>Michaelmas</hi> Term, the Feaſt of the <hi>Purification</hi> being the ſecond of <hi>February</hi> in <hi>Hillary</hi> Term, <hi>Aſ<g ref="char:EOLhyphen"/>cenſion</hi>  day in <hi>Eaſter</hi> Term, and <hi>Midſomer</hi> day in <hi>Trinity</hi> Term, if it happen to be in Term time.</p>
+               <p>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note> That in <hi>Eaſter</hi> Term <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll the <hi>Eſſoyne</hi> days of every Retorn are on Sundays, except the laſt Retorn, which is <hi>Craſtino Aſcenſionis,</hi> and ſo are all the <hi>Eſſoyne</hi> days of the Re<g ref="char:EOLhyphen"/>torns of <hi>Trinity</hi> Term, e<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cept the firſt which is <hi>Craſtino ſancti Trinitatis,</hi> by reaſon whereof every <hi>Dies Juridicus</hi> in <hi>Eaſter</hi> Term (except <hi>Veneris in Craſtino Aſcenſionis)</hi> is <hi>poſt</hi> ſome Retorn or other, and every <hi>Dies Juridicus</hi> in <hi>Trinity</hi> Term is <hi>poſt</hi> ſome Retorn or other of that Term.</p>
+               <p>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</note> That the ſame day of the Week that every Term begins, is a ſure day to make Writs retornable upon through all the Retorns of every Term, except the laſt Retorn;  and never happens upon any day that is not <hi>Dies Juridicus,</hi> unleſs <hi>Midſomer</hi> day chance to fall in Term time, and on the ſame day of the Week that the Term begins, as it did in the Year 1664. which is but rare.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for and Sold by <hi>William Warter</hi> Stationer, at the Sign of the Talbot over againſt the Eaſt End of St. <hi>Dunſtan</hi>'s Church in <hi>Fleetſtreet,</hi> where you may be furniſhed with all ſorts of blank Bonds, blank Writs, blank Warrants for Juſtices, Licenſes for Alehouſes, blank Indentures for Apprentices, blank Indentures to put out Pariſh Children by the Juſtices of the Peace, blank Declarations in Ejectment in the King's Bench or Common Pleas, blank Rules in Ejectment in the King's Bench, blank bayl Bonds for Appearance, blank Tickets for Subpena's for <hi>London, Weſtminster,</hi> or the Aſſizes, or for any other Court, blank Warrants of Attor<g ref="char:EOLhyphen"/>ney to confeſs Judgment, or to Acknowledge Satisfaction on Record, blank Affidavits for Burying in Woollen, blank Deffeazances upon Judgment, or any other ſorts of blanks, which are Printed for and ſold by the ſaid <hi>William Warter,</hi> 1680.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
